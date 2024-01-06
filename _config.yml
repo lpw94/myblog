@@ -1,0 +1,12 @@
+deploy:
+  type: git
+  repository: https://github.com/lpw94/lpw94.github.io.git
+  branch: master
+# Site
+title: 专注前端
+subtitle: ES6, JavaScript, typyscript, vue2, vue3, react, HTML技术学习
+description: ES6, JavaScript, typyscript, vue2, vue3, react, HTML技术学习。
+keywords: "ES6, JavaScript, typyscript, vue2, vue3, react, HTML"
+author: woge
+language: zh-CN
+theme: next
